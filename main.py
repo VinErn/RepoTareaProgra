@@ -39,14 +39,18 @@ while True:
 if operacion == 'suma':
     print("El resultado es: ")
     print(suma(num_1, num_2))
+    print("Gracias por utilizar el programa...\nAdiós.")
 elif operacion == 'resta':
     print("El resultado es: ")
     print(resta(num_1, num_2))
+    print("Gracias por utilizar el programa...\nAdiós.")
 elif operacion == 'mult':
     print("El resultado es: ")
     print(mult(num_1, num_2))
+    print("Gracias por utilizar el programa...\nAdiós.")
 elif operacion == 'div':
     print("El resultado es: ")
     print(div(num_1, num_2))
+    print("Gracias por utilizar el programa...\nAdiós.")
 else:
     print("Operacion inválida")
